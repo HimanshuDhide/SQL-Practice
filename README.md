@@ -1,4 +1,5 @@
-SQL Practice Repository 🧠💻
+**SQL Practice Repository 🧠💻**
+
 This repository contains my hands-on SQL learning and practice journey, focused on mastering real-world data analytics problems and preparing for technical interviews.
 
 📁 Contents
